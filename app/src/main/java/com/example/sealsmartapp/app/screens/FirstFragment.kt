@@ -1,13 +1,11 @@
 package com.example.sealsmartapp.app.screens
 
 import android.os.Bundle
-import android.util.Log
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.viewModels
-import com.example.sealsmartapp.R
 import com.example.sealsmartapp.data.navigator
 import com.example.sealsmartapp.databinding.FragmentFirstBinding
 import com.example.sealsmartapp.domain.entities.AccountModel
